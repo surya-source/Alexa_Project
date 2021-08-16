@@ -1,0 +1,19 @@
+First we have to install from google
+
+pyttsx3
+pywhatkit
+wikipedia
+pyjokes
+
+after code completion ask some basic questions like:
+
+Alexa is common for every question
+
+1).what are you doing
+2).How are you?
+3).who is "    "
+4).Play "     " song
+5).What is the time ?
+6).bye
+&).Tell me a joke
+
